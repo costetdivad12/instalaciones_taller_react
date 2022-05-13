@@ -4,7 +4,7 @@
 ## Instalaciones Necesarias
 * [Google Chrome](https://www.google.com/chrome/)
 
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es&authuser=1)
+* [React Developer Tools](https://addons.mozilla.org/es/firefox/addon/react-devtools/)
 
 * [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es)
 
