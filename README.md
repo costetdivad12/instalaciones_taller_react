@@ -1,5 +1,5 @@
 # Instalaciones recomendadas - Taller de React
-# Intructor José David Costet Orihuela
+# Instructor José David Costet Orihuela
 
 ## Instalaciones Necesarias
 * [Google Chrome](https://www.google.com/chrome/)
